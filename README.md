@@ -1,4 +1,4 @@
-[![WarpJS Logo](https://raw.githubusercontent.com/WarpJS/warp/master/doc/images/warpjs-logo.png)](https://warpjs.com)
+[![WarpJS Logo](https://cdn.warpjs.com/images/warpjs-logo-01.png)](https://warpjs.com)
 
 # WarpJS/beta
 
